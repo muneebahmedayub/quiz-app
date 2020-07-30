@@ -164,7 +164,7 @@ function nextQuestion() {
         const optionsDiv = document.querySelector(".options div")
         const optionInput = document.querySelector(".options input:checked")
         
-        // console.log(typeof(questionsArray[questionCount - 1].answer))
+        
         if (optionInput === null) {
 
         }
